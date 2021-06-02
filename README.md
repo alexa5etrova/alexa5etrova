@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexa5etrova
+- 👋 Hi, I’m Alexandra Petrova @alexa5etrova
 - 👀 I’m interested in Internship as React Developer
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JS , React, Redux via Freecodecamp and other courses.
 - 💞️ I have created websites for some companies: 
