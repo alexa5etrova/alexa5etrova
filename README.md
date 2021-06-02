@@ -6,7 +6,7 @@
 1. Company web-site for mebel factory: [ATLAS MEBEL ](atlas-meb.ru) ( using HTML, CSS, Bootstrap).
 
 - To check my React projects:
-  * [Drum Machine](https://alexa5etrova.github.io/drum-machine/)  [Code] (https://github.com/alexa5etrova/drum-machine)
+  * [Drum Machine](https://alexa5etrova.github.io/drum-machine/)  [Code](https://github.com/alexa5etrova/drum-machine)
   * [MarkDown Previewer](https://alexa5etrova.github.io/markdown-previewer/) [Code](https://github.com/alexa5etrova/markdown-previewer)
   * [RandomQuoteMachine](https://alexa5etrova.github.io/randomQuoteMachine/) [Code](https://github.com/alexa5etrova/randomQuoteMachine)
 
