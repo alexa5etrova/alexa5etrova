@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JS , React, Redux via Freecodecamp, Udemy and other courses.
 - 💞️ I have created websites for some companies: 
 1. Landing page for tourist company: [ASTA TRAVEL GROUP](http://asta-spb.ru/) (using HTML, CSS, Jquery, libraries as FontawesomeIcons and Owl-Carousel)
-1. Company web-site for mebel factory: [ATLAS MEBEL ](https://atlas-meb.ru/) ( using HTML, CSS, Bootstrap).
+2. Company web-site for mebel factory: [ATLAS MEBEL ](https://atlas-meb.ru/) ( using HTML, CSS, Bootstrap).
+3.  Landing-page for interior stuff: [JIVA JUTE](https://www.jivajute.ru/) ( using HTML, SCSS, GULP, Bootstrap, PHP).
 
 - To check my React projects:
   * [Drum Machine](https://alexa5etrova.github.io/drum-machine/)  [Code](https://github.com/alexa5etrova/drum-machine)
