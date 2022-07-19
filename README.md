@@ -10,7 +10,10 @@
   * [Drum Machine](https://alexa5etrova.github.io/drum-machine/)  [Code](https://github.com/alexa5etrova/drum-machine)
   * [MarkDown Previewer](https://alexa5etrova.github.io/markdown-previewer/) [Code](https://github.com/alexa5etrova/markdown-previewer)
   * [RandomQuoteMachine](https://alexa5etrova.github.io/randomQuoteMachine/) [Code](https://github.com/alexa5etrova/randomQuoteMachine)
-
+  
+  
+Current React project :
+* [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
 
 - 📫 How to reach me: aleksa.5etrova@gmail.com. I live in St.Petersburg(Russia).
 
