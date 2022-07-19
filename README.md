@@ -26,20 +26,20 @@ Current NextJS project:
 Добрый день!
 Ищу работу во Frontend, желательно на React
 
-Стек: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
+-Стек: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
 
-Есть представление о PHP, Mysql и Linux
+-Есть представление о PHP, Mysql и Linux
 
-Окружение: Docker, Visual Studio, Git / GitHub.
+-Окружение: Docker, Visual Studio, Git / GitHub.
 
-В процессе изучения: TS
+-В процессе изучения: TS
 
 Опыт: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
 
 Ссылки на сайты:
-http://asta-spb.ru/
-http://atlas-meb.ru/
-https://www.jivajute.ru/
+* http://asta-spb.ru/
+* http://atlas-meb.ru/
+* https://www.jivajute.ru/
 
 Проект в разработке, React+Redux Toolkit на JSON-server fakeApi :
 * [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
