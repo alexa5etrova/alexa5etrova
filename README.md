@@ -11,16 +11,13 @@
   * [MarkDown Previewer](https://alexa5etrova.github.io/markdown-previewer/) [Code](https://github.com/alexa5etrova/markdown-previewer)
   * [RandomQuoteMachine](https://alexa5etrova.github.io/randomQuoteMachine/) [Code](https://github.com/alexa5etrova/randomQuoteMachine)
   
-  
 Current React project :
 * [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
-
 Current NextJS project: 
 * [Top app](https://github.com/alexa5etrova/top-app)
 
 
-
-- 📫 How to reach me: aleksa.5etrova@gmail.com. I live in St.Petersburg(Russia).
+- 📫 How to reach me: **aleksa.5etrova@gmail.com**. I live in St.Petersburg(Russia).
 
 
 
@@ -28,9 +25,9 @@ Current NextJS project:
 
 
 Добрый день!
-Ищу работу во Frontend, желательно на React
+#### Ищу работу во Frontend, желательно на React
 
-- Стек: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
+- *Стек*: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
 
 - Есть представление о PHP, Mysql и Linux
 
@@ -38,7 +35,7 @@ Current NextJS project:
 
 - В процессе изучения: TS
 
-Опыт: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
+*Опыт*: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
 
 
 
@@ -47,13 +44,12 @@ Current NextJS project:
 * http://atlas-meb.ru/
 * https://www.jivajute.ru/
 
-Проект в разработке, React+Redux Toolkit на JSON-server fakeApi :
+Проект в разработке, *React+Redux Toolkit на JSON-server fakeApi* :
 * [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
-
-Проект в разработке NextJS: 
+Проект в разработке *NextJS*: 
 * [Top app](https://github.com/alexa5etrova/top-app)
 
-Готова изучить используемые Вами технологии.  Связаться со мной или скинуть тестовое: aleksa.5etrova@gmail.com. Живу в Санкт-Петербурге, рассматриваю и офис и удаленку.
+Готова изучить используемые Вами технологии.  Связаться со мной или скинуть тестовое: *aleksa.5etrova@gmail.com*. Живу в Санкт-Петербурге, рассматриваю и офис и удаленку.
 Спасибо за внимание!
 
 <!---
