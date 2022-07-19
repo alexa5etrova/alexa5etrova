@@ -1,3 +1,33 @@
+Добрый день!
+#### Ищу работу во Frontend, желательно на React
+
+- **Стек**: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
+
+- Есть представление о PHP, Mysql и Linux
+
+- Окружение: Docker, Visual Studio, Git / GitHub.
+
+- В процессе изучения: TS
+
+**Опыт**: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
+
+
+Ссылки на сайты:
+* http://asta-spb.ru/
+* http://atlas-meb.ru/
+* https://www.jivajute.ru/
+
+Проект в разработке, **React+Redux Toolkit на JSON-server fakeApi** :
+* [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
+Проект в разработке **NextJS**: 
+* [Top app](https://github.com/alexa5etrova/top-app)
+
+Готова изучить используемые Вами технологии.  Связаться со мной или скинуть тестовое: *aleksa.5etrova@gmail.com*. Живу в Санкт-Петербурге, рассматриваю и офис и удаленку.
+Спасибо за внимание!
+
+___
+
+
 - 👋 Hi, I’m Alexandra Petrova @alexa5etrova
 - 👀 I’m interested in Position of Junior React Developer
 - 🌱 I’m currently learning HTML, CSS, Bootstrap, JS , React, Redux via ITMO, Freecodecamp, Udemy and other courses.
@@ -24,33 +54,6 @@ Current NextJS project:
 
 
 
-Добрый день!
-#### Ищу работу во Frontend, желательно на React
-
-- *Стек*: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
-
-- Есть представление о PHP, Mysql и Linux
-
-- Окружение: Docker, Visual Studio, Git / GitHub.
-
-- В процессе изучения: TS
-
-*Опыт*: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
-
-
-
-Ссылки на сайты:
-* http://asta-spb.ru/
-* http://atlas-meb.ru/
-* https://www.jivajute.ru/
-
-Проект в разработке, *React+Redux Toolkit на JSON-server fakeApi* :
-* [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
-Проект в разработке *NextJS*: 
-* [Top app](https://github.com/alexa5etrova/top-app)
-
-Готова изучить используемые Вами технологии.  Связаться со мной или скинуть тестовое: *aleksa.5etrova@gmail.com*. Живу в Санкт-Петербурге, рассматриваю и офис и удаленку.
-Спасибо за внимание!
 
 <!---
 alexa5etrova/alexa5etrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
