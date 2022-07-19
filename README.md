@@ -1,4 +1,4 @@
-Добрый день!
+Добрый день! Я - Александра Петрова.
 #### Ищу работу во Frontend, желательно на React
 
 - **Стек**: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
@@ -8,6 +8,7 @@
 - Окружение: Docker, Visual Studio, Git / GitHub.
 
 - В процессе изучения: TS
+- Английский B2
 
 **Опыт**: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
 
@@ -19,10 +20,11 @@
 
 Проект в разработке, **React+Redux Toolkit на JSON-server fakeApi** :
 * [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
+
 Проект в разработке **NextJS**: 
 * [Top app](https://github.com/alexa5etrova/top-app)
 
-Готова изучить используемые Вами технологии.  Связаться со мной или скинуть тестовое: *aleksa.5etrova@gmail.com*. Живу в Санкт-Петербурге, рассматриваю и офис и удаленку.
+Готова изучить используемые Вами технологии.  Связаться со мной или скинуть тестовое: **aleksa.5etrova@gmail.com**. Живу в Санкт-Петербурге, рассматриваю и офис и удаленку.
 Спасибо за внимание!
 
 ___
