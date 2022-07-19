@@ -14,9 +14,11 @@
   
 Current React project :
 * [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
-* 
+
 Current NextJS project: 
 * [Top app](https://github.com/alexa5etrova/top-app)
+
+
 
 - 📫 How to reach me: aleksa.5etrova@gmail.com. I live in St.Petersburg(Russia).
 
