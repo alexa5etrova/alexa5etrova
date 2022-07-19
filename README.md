@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandra Petrova @alexa5etrova
 - 👀 I’m interested in Position of Junior React Developer
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JS , React, Redux via Freecodecamp, Udemy and other courses.
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, JS , React, Redux via ITMO, Freecodecamp, Udemy and other courses.
 - 💞️ I have created websites for some companies: 
 1. Landing page for tourist company: [ASTA TRAVEL GROUP](http://asta-spb.ru/) (using HTML, CSS, Jquery, libraries as FontawesomeIcons and Owl-Carousel)
 2. Company web-site for mebel factory: [ATLAS MEBEL ](https://atlas-meb.ru/) ( using HTML, CSS, Bootstrap).
@@ -26,13 +26,13 @@ Current NextJS project:
 Добрый день!
 Ищу работу во Frontend, желательно на React
 
--Стек: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
+- Стек: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
 
--Есть представление о PHP, Mysql и Linux
+- Есть представление о PHP, Mysql и Linux
 
--Окружение: Docker, Visual Studio, Git / GitHub.
+- Окружение: Docker, Visual Studio, Git / GitHub.
 
--В процессе изучения: TS
+- В процессе изучения: TS
 
 Опыт: разработка сайтов, размещение на хостинге и поддержка сайтов для туристической фирмы, мебельного производства, студии интерьерных изделий.
 
