@@ -2,11 +2,8 @@
 #### Ищу работу во Frontend, желательно на React
 
 - **Стек**: HTML, CSS, SASS, LESS, Bootstrap, JS, React Js, React Hook, styled-component, CSS modules, Redux, Redux Toolkit, React Router, React Formik NextJs, Gulp, Jquery.
-
 - Есть представление о PHP, Mysql и Linux
-
 - Окружение: Docker, Visual Studio, Git / GitHub.
-
 - В процессе изучения: TS
 - Английский B2
 
