@@ -40,21 +40,11 @@ ___
   * [MarkDown Previewer](https://alexa5etrova.github.io/markdown-previewer/) [Code](https://github.com/alexa5etrova/markdown-previewer)
   * [RandomQuoteMachine](https://alexa5etrova.github.io/randomQuoteMachine/) [Code](https://github.com/alexa5etrova/randomQuoteMachine)
   
-Current React project :
-* [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
-Current NextJS project: 
-* [Top app](https://github.com/alexa5etrova/top-app)
+Current React project : [Sdaem-by](https://github.com/alexa5etrova/sdaem-by-react)
+
+Current NextJS project: [Top app](https://github.com/alexa5etrova/top-app)
 
 
 - 📫 How to reach me: **aleksa.5etrova@gmail.com**. I live in St.Petersburg(Russia).
 
 
-
-
-
-
-
-<!---
-alexa5etrova/alexa5etrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
